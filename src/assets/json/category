@@ -1,0 +1,5 @@
+[
+    {"id":"1", "name":"frontend", "code":"front","img":"https://www.stutern.com/images/accelerator/Frontend%20Dev.png"},
+    {"id":"2", "name":"backend", "code":"back","img":"https://www.campusmvp.es/recursos/image.axd?picture=/2021/1T/lenguajes-programacion-back-end.png"},
+    {"id":"3", "name":"fullstack", "code":"fullstack","img":"https://www.addsolutions.es/wp-content/uploads/2019/09/cropped-Full-Stack-Web-Developer.png"}
+]
